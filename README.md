@@ -8,6 +8,10 @@ Implementation of <a href="https://generatebiomedicines.com/chroma">Chroma</a>, 
 
 If you are interested in open sourcing works like these out in the wild, please consider joining <a href="https://openbioml.org/">OpenBioML</a>
 
+## Todo
+
+- [ ] use <a href="https://huggingface.co/mrm8488/galactica-125m">galactica</a>
+
 ## Citations
 
 ```bibtex
