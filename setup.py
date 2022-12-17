@@ -18,6 +18,7 @@ setup(
   ],
   install_requires=[
     'einops>=0.6',
+    'invariant-point-attention',
     'torch>=1.6',
   ],
   classifiers=[
