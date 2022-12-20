@@ -6,6 +6,8 @@
 
 Implementation of <a href="https://generatebiomedicines.com/chroma">Chroma</a>, generative model of proteins using DDPM and GNNs, in Pytorch. <a href="https://www.bakerlab.org/2022/11/30/diffusion-model-for-protein-design/">Concurrent work</a> seems to suggest we have a slight lift-off applying denoising diffusion probabilistic models to protein design.
 
+<a href="https://stephanheijl.com/rfdiffusion.html">Explanation by Stephan Heijl</a>
+
 If you are interested in open sourcing works like these out in the wild, please consider joining <a href="https://openbioml.org/">OpenBioML</a>
 
 ## Todo
