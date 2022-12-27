@@ -1,3 +1,7 @@
+<img src="./chroma.png" width="550px"></img>
+
+<i>figure 1 in <a href="https://www.biorxiv.org/content/10.1101/2022.12.01.518682v1">paper</a></i>
+
 <img src="./rfdiffusion.gif" width="450px"></img>
 
 *generating a protein that binds to spike protein of coronavirus - Baker lab's concurrent RFDiffusion work*
